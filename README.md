@@ -8,11 +8,11 @@ Features
 - Material 3 UI  
 
 Tech
--Java 
--Room 
--LiveData 
--MVVM
--RecyclerView 
--Material 3
+- Java 
+- Room 
+- LiveData 
+- MVVM
+- RecyclerView 
+- Material 3
 
 Please let me know if you find any errors. I'm open to suggestions for additional features or improvements. 
